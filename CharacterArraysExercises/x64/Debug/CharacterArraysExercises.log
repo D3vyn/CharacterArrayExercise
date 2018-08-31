@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): error C2117: 'name': array bounds overflow
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(145): error C2369: 'name': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(148): error C2369: 'name': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(149): error C2088: '<<': illegal for class
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(153): error C2369: 'name': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(154): error C2088: '<<': illegal for class
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(157): error C2369: 'name': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(164): error C2369: 'name': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(141): note: see declaration of 'name'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(165): error C2369: 'surname': redefinition; different subscripts
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(158): note: see declaration of 'surname'
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(169): error C2440: '=': cannot convert from 'const char [2]' to 'char'
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(169): note: There is no context in which this conversion is possible
+c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(175): error C2374: 'errorMsg': redefinition; multiple initialization
+  c:\users\s188047\source\repos\introcppdevynw\characterarraysexercises\source.cpp(168): note: see declaration of 'errorMsg'
